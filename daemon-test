@@ -1,0 +1,6 @@
+#!/bin/ash
+while true
+do
+  sleep 2
+  echo 'Cool container'
+done
